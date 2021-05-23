@@ -45,6 +45,9 @@
   #wrapper li input {
     padding: 6px;
   }
+  #wrapper li label {
+    padding: 6px;
+  }
 }
 
 @media screen and (min-width: 1200px) {
